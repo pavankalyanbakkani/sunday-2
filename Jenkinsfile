@@ -11,7 +11,7 @@ pipeline {
                 echo 'Pavan kalyan bakkani'
                 echo 'Bridr, eey'
                 echo 'BrerkNey'
-                echo 'Briyyey'
+                echo 'Briyy'
                 
               
              
