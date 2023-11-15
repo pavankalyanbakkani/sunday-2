@@ -2,6 +2,7 @@ pipeline {
     agent {
         node {
             label 'built-in' // Use Jenkins' built-in node
+}
         
     stages {
         stage('Build') {
@@ -50,6 +51,5 @@ post{
 }
         }
     }
-}
 }
     }
