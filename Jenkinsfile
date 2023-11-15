@@ -48,7 +48,7 @@ post{
         echo "The build was failure"
     }
 
-    ]
+    
 }
         }
     }
