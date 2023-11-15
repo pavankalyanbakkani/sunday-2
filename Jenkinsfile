@@ -12,6 +12,7 @@ pipeline {
                 echo 'Bridr, eey'
                 echo 'BrkNey'
                 echo 'Briyy'
+                sleep 200
                 
               
              
